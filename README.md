@@ -1,6 +1,6 @@
 # tiktok-publisher-legal
 
-Legal documents for **OpenClaw TikTok Publisher** — a desktop productivity tool that helps content creators upload video drafts to their own TikTok drafts box via TikTok's official Content Posting API.
+Legal documents for **OpenClaw Draft Kit** — a desktop productivity tool that helps content creators upload video drafts to their own TikTok drafts box via TikTok's official Content Posting API.
 
 ## Hosted documents
 
@@ -19,4 +19,4 @@ These documents are published via GitHub Pages and are referenced by the Applica
 
 ## License
 
-These legal documents are provided as-is for the OpenClaw TikTok Publisher application. Individual paragraphs may be reused as a starting point for other TikTok developer applications with proper attribution.
+These legal documents are provided as-is for the OpenClaw Draft Kit application. Individual paragraphs may be reused as a starting point for other TikTok developer applications with proper attribution.

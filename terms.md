@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Terms of Service — OpenClaw TikTok Publisher
+title: Terms of Service — OpenClaw Draft Kit
 ---
 
 # Terms of Service
@@ -8,11 +8,11 @@ title: Terms of Service — OpenClaw TikTok Publisher
 **Effective date: 2026-04-09**  
 **Last updated: 2026-04-09**
 
-Please read these Terms of Service ("Terms") carefully before using the OpenClaw TikTok Publisher application ("the Application", "we", "us", or "our"). By installing, configuring, or using the Application, you ("the User", "you") agree to be bound by these Terms.
+Please read these Terms of Service ("Terms") carefully before using the OpenClaw Draft Kit application ("the Application", "we", "us", or "our"). By installing, configuring, or using the Application, you ("the User", "you") agree to be bound by these Terms.
 
 ## 1. Description of the Application
 
-OpenClaw TikTok Publisher is a desktop productivity tool that helps individual content creators manage their own video drafts and upload them to their own TikTok drafts inbox via TikTok's official Content Posting API. The Application integrates with TikTok for Developers using Login Kit (OAuth 2.0) and the Content Posting API.
+OpenClaw Draft Kit is a desktop productivity tool that helps individual content creators manage their own video drafts and upload them to their own TikTok drafts inbox via TikTok's official Content Posting API. The Application integrates with TikTok for Developers using Login Kit (OAuth 2.0) and the Content Posting API.
 
 The Application's functionality is limited to:
 

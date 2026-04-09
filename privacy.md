@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy — OpenClaw TikTok Publisher
+title: Privacy Policy — OpenClaw Draft Kit
 ---
 
 # Privacy Policy
@@ -8,7 +8,7 @@ title: Privacy Policy — OpenClaw TikTok Publisher
 **Effective date: 2026-04-09**  
 **Last updated: 2026-04-09**
 
-This Privacy Policy describes how the OpenClaw TikTok Publisher application ("the Application", "we", "us", or "our") handles information received from TikTok and from you ("the User", "you"). We are committed to protecting your privacy and being transparent about what data we access and how we use it.
+This Privacy Policy describes how the OpenClaw Draft Kit application ("the Application", "we", "us", or "our") handles information received from TikTok and from you ("the User", "you"). We are committed to protecting your privacy and being transparent about what data we access and how we use it.
 
 **Summary (plain English)**: We run entirely on your own device. We receive OAuth tokens and basic profile information from TikTok when you authorize the Application, and we use them solely to upload videos you choose into your own TikTok drafts. We do not transmit your data to any third party, we do not use cloud storage, and we do not share anything with anyone.
 

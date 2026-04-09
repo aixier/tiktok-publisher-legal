@@ -1,13 +1,13 @@
 ---
 layout: default
-title: OpenClaw Publisher for TikTok
+title: OpenClaw Draft Kit
 ---
 
-# OpenClaw Publisher for TikTok
+# OpenClaw Draft Kit
 
 **A desktop productivity tool for content creators to draft and publish short videos to TikTok through the official Content Posting API.**
 
-OpenClaw Publisher for TikTok is an open-source extension for the [OpenClaw](https://github.com/openclaw/openclaw) platform that helps individual creators move approved video drafts from their local workspace into their own TikTok drafts inbox, ready for final review and publishing inside the TikTok mobile app.
+OpenClaw Draft Kit is an open-source extension for the [OpenClaw](https://github.com/openclaw/openclaw) platform that helps individual creators move approved video drafts from their local workspace into their own TikTok drafts inbox, ready for final review and publishing inside the TikTok mobile app.
 
 ---
 
@@ -61,7 +61,7 @@ All scope use is documented in [our App Review submission](https://developers.ti
 
 ## Installation
 
-OpenClaw Publisher for TikTok is distributed as an extension of the OpenClaw platform.
+OpenClaw Draft Kit is distributed as an extension of the OpenClaw platform.
 
 **Requirements**:
 
@@ -121,7 +121,7 @@ For privacy or legal inquiries, please [open an issue](https://github.com/aixier
 
 ## Disclaimer
 
-OpenClaw Publisher for TikTok is an independent third-party application. It is **not affiliated with, endorsed by, sponsored by, or otherwise associated with TikTok Inc.** or ByteDance Ltd. "TikTok" is a trademark of its respective owner. All use of the TikTok name and APIs in this application is solely for the purpose of identifying the platform that users of this application voluntarily integrate with.
+OpenClaw Draft Kit is an independent third-party application. It is **not affiliated with, endorsed by, sponsored by, or otherwise associated with TikTok Inc.** or ByteDance Ltd. "TikTok" is a trademark of its respective owner. All use of the TikTok name and APIs in this application is solely for the purpose of identifying the platform that users of this application voluntarily integrate with.
 
 ---
 
